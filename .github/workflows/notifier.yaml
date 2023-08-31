@@ -1,0 +1,24 @@
+name: notifier
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+env:
+  # use the same ssh-agent socket value across all jobs & steps.
+  SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+
+jobs:
+  notify_slack_on_pr:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Notify Slack On Pull Request Open
+        shell: pwsh
+        run: echo "hey"
+
+
+
+  

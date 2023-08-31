@@ -1,8 +1,8 @@
-# Sgandal yn Bohemia
+# Anturiaethau Sherlock Holmes
 
-Y stori gyntaf o'r Anturiaethau Sherlock Holmes.
+The Adventures of Sherlock Holmes
 
-The first story in The Adventures of Sherlock Holmes
+
 
 ## Advice to translators
 

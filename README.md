@@ -24,3 +24,8 @@ familiar circumstances. Other characters may speak more colloquially or
 familiarly, and this often tallies with their status within the story and, more
 broadly, Victorian society. Take advantage of _chi'n erbyn ti_ to add to the
 feel of the story.
+
+# How To Submit a PR from a Fork
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+
